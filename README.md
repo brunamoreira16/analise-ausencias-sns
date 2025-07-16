@@ -29,7 +29,7 @@ Construção de dashboards interativos no **Power BI**, com segmentações por a
 
 ## Descrição dos Dashboards
 
-### Dashboard_EvoluçãoAusências:
+### Dashboard 1: Evolução das Ausências
 Apresenta a evolução do número de dias de ausência ao trabalho por:
 - Ano
 - Ano e região
@@ -41,7 +41,9 @@ Apresenta a evolução do número de dias de ausência ao trabalho por:
 - **Região:** Permite filtrar as observações por região
 É possível ainda combinar os filtros **Tipologia** e **Região** e obter, por exemplo, a evolução do número de faltas por Greve na região Norte.
 
-### Dashboard_Top8+ e Dashboard_Top8-:
+![Evolução das Ausências](dashboards/Dashboard1_EvoluçãoAusências.png)
+
+### Dashboard 2: Top8+ e Dashboard 3: Top8-:
 Estes dashboards refletem:
 - As entidades que necessitam de mais controlo e intervenção (**Top 8+**);
 - As entidades que podem ser referência de boa gestão (**Top 8-**).  
@@ -52,7 +54,12 @@ Estes dashboards refletem:
 - Distribuição geográfica num mapa  
 Com os filtros de **Ano** e **Região** é possível analisar isoladamente ano a ano, por região, ou ambos.
 
-### Dashboard_TipologiaAusência
+![Evolução das Ausências](dashboards/Dashboard2_Top8+.png)
+
+![Evolução das Ausências](dashboards/Dashboard3_Top8-.png)
+
+
+### Dashboard 4: Tipologia Ausência
 Apresenta:
 - As tipologias de ausência com maior e menor proeminência
 - O trimestre com maior número de ausências registadas
@@ -61,6 +68,8 @@ Apresenta:
 - **Ano**
 - **Trimestre**
 - **Região**
+
+![Evolução das Ausências](dashboards/Dashboard4_TipologiaAusência.png)
 
 ## Ferramentas Utilizadas
 - **Power BI**
