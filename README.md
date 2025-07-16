@@ -39,7 +39,7 @@ Apresenta a evolução do número de dias de ausência ao trabalho por:
 **Filtros de segmentação:**
 - **Tipologia:** Permite observar a evolução do número de ausências associado a cada tipologia
 - **Região:** Permite filtrar as observações por região
-É possível ainda combinar os filtros **Tipologia** e **Região** e obter, por exemplo, a evolução do número de faltas por Greve na região Norte.
+É possível ainda combinar os filtros **Tipologia** e **Região** e obter, por exemplo, a evolução do número de faltas por Greve na região Norte (Imagem 2)
 
 ![Evolução das Ausências](dashboards/Dashboard1_EvoluçãoAusências.png)
 
