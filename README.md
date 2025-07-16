@@ -43,6 +43,8 @@ Apresenta a evolução do número de dias de ausência ao trabalho por:
 
 ![Evolução das Ausências](dashboards/Dashboard1_EvoluçãoAusências.png)
 
+![Evolução das Ausências](dashboards/Visualização1_GreveNorte.png)
+
 ### Dashboard 2: Top8+ e Dashboard 3: Top8-:
 Estes dashboards refletem:
 - As entidades que necessitam de mais controlo e intervenção (**Top 8+**);
