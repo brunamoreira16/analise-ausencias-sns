@@ -1,7 +1,7 @@
 # Análise ao Número de Dias de Ausência ao Trabalho dos Profissionais do SNS
 Projeto desenvolvido no âmbito de uma Microcredencial em Business Intelligence, com foco na análise do absentismo dos colaboradores no Serviço Nacional de Saúde (SNS) entre 2014 e 2022. Foram utilizados Power BI e Power Query para construir um modelo de dados em estrela e dashboards interativos. A análise explora tendências de absentismo por regiões, instituições e tipos de ausência, apoiando a tomada de decisão e o acompanhamento de desempenho.
 
-**EN:** Project developed during a Microcredential in Business Intelligence, focusing on the analysis of employee absenteeism in the Portuguese National Health Service (SNS) between 2014 and 2022, using Power BI and Power Query to build a star-schema data model and interactive dashboards. The analysis explores absenteeism trends across regions, entities, and absence types, supporting decision-making and performance monitoring.
+**EN:** Project developed during a Micro-credential in Business Intelligence, focusing on the analysis of employee absenteeism in the Portuguese National Health Service (SNS) between 2014 and 2022, using Power BI and Power Query to build a star-schema data model and interactive dashboards. The analysis explores absenteeism trends across regions, entities, and absence types, supporting decision-making and performance monitoring.
 
 ## Constituição da base de dados
 - **Fonte:** Base de dados pública do SNS
